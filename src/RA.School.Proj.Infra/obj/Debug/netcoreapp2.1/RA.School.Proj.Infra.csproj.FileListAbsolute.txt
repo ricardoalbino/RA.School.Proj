@@ -1,0 +1,14 @@
+C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Infra\bin\Debug\netcoreapp2.1\RA.School.Proj.Infra.deps.json
+C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Infra\bin\Debug\netcoreapp2.1\RA.School.Proj.Infra.dll
+C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Infra\obj\Debug\netcoreapp2.1\RA.School.Proj.Infra.csprojAssemblyReference.cache
+C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Infra\obj\Debug\netcoreapp2.1\RA.School.Proj.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Infra\obj\Debug\netcoreapp2.1\RA.School.Proj.Infra.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Infra\obj\Debug\netcoreapp2.1\RA.School.Proj.Infra.AssemblyInfo.cs
+C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Infra\bin\Debug\netcoreapp2.1\RA.School.Proj.Infra.runtimeconfig.json
+C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Infra\bin\Debug\netcoreapp2.1\RA.School.Proj.Infra.runtimeconfig.dev.json
+C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Infra\bin\Debug\netcoreapp2.1\RA.School.Proj.Infra.pdb
+C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Infra\obj\Debug\netcoreapp2.1\RA.School.Proj.Infra.dll
+C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Infra\obj\Debug\netcoreapp2.1\RA.School.Proj.Infra.pdb
+C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Infra\bin\Debug\netcoreapp2.1\RA.School.Proj.Domain.dll
+C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Infra\bin\Debug\netcoreapp2.1\RA.School.Proj.Domain.pdb
+C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Infra\obj\Debug\netcoreapp2.1\RA.School.Proj.Infra.csproj.CopyComplete
