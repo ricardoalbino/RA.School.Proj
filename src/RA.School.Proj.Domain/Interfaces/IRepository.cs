@@ -8,12 +8,13 @@ namespace RA.School.Proj.Domain.Interfaces
 {
     public interface IRepository<TEntity> : IDisposable where TEntity :  class
     {
-        Task adicionar(TEntity  entity);
+        Task adicionarAsync(TEntity  entity);
         Task Atualizar(TEntity entity);
         Task Remover(TEntity entity);
         Task<List<TEntity>> ObterTodos();
         Task<TEntity> ObterPorId(Guid id);
-        Task<IEnumerable<TEntity>> buscar(Expression<Func<TEntity, bool>> predicate);
+        Task<IEnumerable<TEntity>> buscarAsync(Expression<Func<TEntity, bool>> predicate);
+        Task<int> SaveChanges();
 
     }
 }

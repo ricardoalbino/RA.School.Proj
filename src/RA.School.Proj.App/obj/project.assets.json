@@ -11816,11 +11816,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ricardo\\Documents\\DevSource\\src\\RA.School.Proj.App\\RA.School.Proj.App.csproj",
+      "projectUniqueName": "C:\\Users\\Ricardo\\Source\\Repos\\RA.School.Proj\\src\\RA.School.Proj.App\\RA.School.Proj.App.csproj",
       "projectName": "RA.School.Proj.App",
-      "projectPath": "C:\\Users\\Ricardo\\Documents\\DevSource\\src\\RA.School.Proj.App\\RA.School.Proj.App.csproj",
+      "projectPath": "C:\\Users\\Ricardo\\Source\\Repos\\RA.School.Proj\\src\\RA.School.Proj.App\\RA.School.Proj.App.csproj",
       "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ricardo\\Documents\\DevSource\\src\\RA.School.Proj.App\\obj\\",
+      "outputPath": "C:\\Users\\Ricardo\\Source\\Repos\\RA.School.Proj\\src\\RA.School.Proj.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11839,8 +11839,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Ricardo\\Documents\\DevSource\\src\\RA.School.Proj.Domain\\RA.School.Proj.Domain.csproj": {
-              "projectPath": "C:\\Users\\Ricardo\\Documents\\DevSource\\src\\RA.School.Proj.Domain\\RA.School.Proj.Domain.csproj"
+            "C:\\Users\\Ricardo\\Source\\Repos\\RA.School.Proj\\src\\RA.School.Proj.Domain\\RA.School.Proj.Domain.csproj": {
+              "projectPath": "C:\\Users\\Ricardo\\Source\\Repos\\RA.School.Proj\\src\\RA.School.Proj.Domain\\RA.School.Proj.Domain.csproj"
             }
           }
         }

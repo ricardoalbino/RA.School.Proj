@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ricardo\\Documents\\DevSource\\src\\RA.School.Proj.Domain\\RA.School.Proj.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Ricardo\\Source\\Repos\\RA.School.Proj\\src\\RA.School.Proj.Domain\\RA.School.Proj.Domain.csproj",
       "projectName": "RA.School.Proj.Domain",
-      "projectPath": "C:\\Users\\Ricardo\\Documents\\DevSource\\src\\RA.School.Proj.Domain\\RA.School.Proj.Domain.csproj",
+      "projectPath": "C:\\Users\\Ricardo\\Source\\Repos\\RA.School.Proj\\src\\RA.School.Proj.Domain\\RA.School.Proj.Domain.csproj",
       "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ricardo\\Documents\\DevSource\\src\\RA.School.Proj.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Ricardo\\Source\\Repos\\RA.School.Proj\\src\\RA.School.Proj.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
