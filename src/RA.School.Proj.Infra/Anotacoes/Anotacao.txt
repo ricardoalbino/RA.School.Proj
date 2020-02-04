@@ -1,0 +1,41 @@
+Manda projeto para o Git HUb
+
+-> Criar repositorio no Git - com nome desejado
+	
+-> criar um dietorio local no PC, e passar esse caminho no git bach, para ser clonado 
+	EX: cd  C:\GitHub
+	Sera criado um diretorio aqui dentro
+
+-> Clonar repositorio 
+	> git clone - https://github.com/ricardoalbino/asp-.net-core.git
+	> ele cria uma pasta nesse diretorio
+
+-> Entre na pasta do seu projeto
+	-> cd asp-.net-core
+	agora vc esta no seu master local(PC)
+
+
+
+-> git status = MOstra o que tem na pasta do repositorio do seu PC
+-> Pegue seu projeto, e cole dentro desse repositorio 
+-> crie um txt(.gitignore), e coloque dentro dele o nome da pasta que vc não deseja clonar
+-> git add . (Manda para o stage area)
+-> git status - verifica os arquivos que ainda não foram para stage area, tem que estar verde
+se estiver verde é poque não foi
+-> git commit -m "fist commit" - Versiona o projeto no git
+->git push origin master - envia o projeto para p master epositorio remoto
+
+
+para alterar um arquivo
+  basta substituir o arquivo  na pasta do seu repositorio
+
+> git status = MOstra o que foi modificado
+
+-> git add . (Manda para o stage area)
+-> git status - verifica os arquivos que ainda não foram para stage area, tem que estar verde
+se estiver verde é poque não foi
+-> git commit -m "fist commit" - Versiona o projeto no git
+->git push origin master - envia o projeto para p master epositorio remoto
+
+
+

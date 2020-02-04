@@ -7,3 +7,12 @@ C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Domain\
 C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Domain\obj\Debug\netcoreapp2.1\RA.School.Proj.Domain.AssemblyInfo.cs
 C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Domain\obj\Debug\netcoreapp2.1\RA.School.Proj.Domain.dll
 C:\Users\Ricardo\Documents\RA.Projetos\RA.School.Proj\src\RA.School.Proj.Domain\obj\Debug\netcoreapp2.1\RA.School.Proj.Domain.pdb
+C:\Users\Ricardo\Documents\DevSource\src\RA.School.Proj.Domain\bin\Debug\netcoreapp2.1\RA.School.Proj.Domain.deps.json
+C:\Users\Ricardo\Documents\DevSource\src\RA.School.Proj.Domain\bin\Debug\netcoreapp2.1\RA.School.Proj.Domain.dll
+C:\Users\Ricardo\Documents\DevSource\src\RA.School.Proj.Domain\bin\Debug\netcoreapp2.1\RA.School.Proj.Domain.pdb
+C:\Users\Ricardo\Documents\DevSource\src\RA.School.Proj.Domain\obj\Debug\netcoreapp2.1\RA.School.Proj.Domain.csprojAssemblyReference.cache
+C:\Users\Ricardo\Documents\DevSource\src\RA.School.Proj.Domain\obj\Debug\netcoreapp2.1\RA.School.Proj.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\DevSource\src\RA.School.Proj.Domain\obj\Debug\netcoreapp2.1\RA.School.Proj.Domain.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Documents\DevSource\src\RA.School.Proj.Domain\obj\Debug\netcoreapp2.1\RA.School.Proj.Domain.AssemblyInfo.cs
+C:\Users\Ricardo\Documents\DevSource\src\RA.School.Proj.Domain\obj\Debug\netcoreapp2.1\RA.School.Proj.Domain.dll
+C:\Users\Ricardo\Documents\DevSource\src\RA.School.Proj.Domain\obj\Debug\netcoreapp2.1\RA.School.Proj.Domain.pdb
